@@ -32,5 +32,5 @@ Raunak Chitre (raunakc24)
 https://leetcode.com/problems/number-of-provinces/description/?envType=study-plan-v2&envId=leetcode-75
 
 * **Summary of partner's interview feedback:**
-- Process of talking through my thought process was good
-- Writing pseudocode in the comments was also good
+  - Process of talking through my thought process was good
+  - Writing pseudocode in the comments was also good
