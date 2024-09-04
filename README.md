@@ -23,9 +23,14 @@ Below are the instructions for this assignment. Your repository should automatic
 ### 📝 TODO: Complete this section
 
 * **Your name and PID**:
+Sriniketh Vangaru (sriv04)
 
 * **Your partner's name and PID:**
+Raunak Chitre (raunakc24)
 
 * **Link to selected coding challenge:**
+https://leetcode.com/problems/number-of-provinces/description/?envType=study-plan-v2&envId=leetcode-75
 
 * **Summary of partner's interview feedback:**
+- Process of talking through my thought process was good
+- Writing pseudocode in the comments was also good
